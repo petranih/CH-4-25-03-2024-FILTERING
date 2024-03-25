@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "65fda576cef0ac41551c36b4",
+      "name": "Parrish Lane",
+      "email": "parrishlane@suremax.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda576f5bc74615a26ef06",
+      "name": "Letha Strong",
+      "email": "lethastrong@suremax.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda57643608757d82679ba",
+      "name": "Sawyer Carr",
+      "email": "sawyercarr@suremax.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda57687f8820fa2e48ef6",
+      "name": "Bright Romero",
+      "email": "brightromero@suremax.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-1.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda57684e11581a430e73b",
+      "name": "Lawanda Kim",
+      "email": "lawandakim@suremax.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-5.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda576d8f47da2aa0e589b",
+      "name": "Diane Baldwin",
+      "email": "dianebaldwin@suremax.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda576e6490d9b3c03b33f",
+      "name": "Gallegos Mendoza",
+      "email": "gallegosmendoza@suremax.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-4.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda576fa89272b90b4691b",
+      "name": "Margery Bridges",
+      "email": "margerybridges@suremax.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda576ba69efa5b0704047",
+      "name": "Bryan Henry",
+      "email": "bryanhenry@suremax.com",
+      "role": "user",
+      "active": false,
+      "photo": "user-1.jpg",
+      "password": ""
+    }
+  ]
